@@ -1,7 +1,7 @@
 var app = (function () {
   var artist = 'Wangchuan';
   var twitter = 'lanca_eyou'
-  var startDate = "2023-08-04"
+  var startDate = "2025-06-05"
     const Cn = ue([
       "洛陽懷/Luoyang Huai - Li Bai x Du Fu",
       "好字唯之/Haozi Weizhi - Wang Xizhi",
